@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://danmarkcalape-prog.github.io/grand-line-pdf/sitemap.xml
